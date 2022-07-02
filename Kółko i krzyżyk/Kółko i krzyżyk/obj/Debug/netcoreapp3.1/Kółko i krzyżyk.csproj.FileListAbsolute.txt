@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Pliki\Kółko i krzyżyk\Kółko i krzyżyk\bin\Debug\netcoreapp3.1\Kółko i krzyżyk.exe
+C:\Users\user\Desktop\Pliki\Kółko i krzyżyk\Kółko i krzyżyk\bin\Debug\netcoreapp3.1\Kółko i krzyżyk.deps.json
+C:\Users\user\Desktop\Pliki\Kółko i krzyżyk\Kółko i krzyżyk\bin\Debug\netcoreapp3.1\Kółko i krzyżyk.runtimeconfig.json
+C:\Users\user\Desktop\Pliki\Kółko i krzyżyk\Kółko i krzyżyk\bin\Debug\netcoreapp3.1\Kółko i krzyżyk.runtimeconfig.dev.json
+C:\Users\user\Desktop\Pliki\Kółko i krzyżyk\Kółko i krzyżyk\bin\Debug\netcoreapp3.1\Kółko i krzyżyk.dll
+C:\Users\user\Desktop\Pliki\Kółko i krzyżyk\Kółko i krzyżyk\bin\Debug\netcoreapp3.1\Kółko i krzyżyk.pdb
+C:\Users\user\Desktop\Pliki\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Pliki\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko_i_krzyżyk.Form1.resources
+C:\Users\user\Desktop\Pliki\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Pliki\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Pliki\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Pliki\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.AssemblyInfo.cs
+C:\Users\user\Desktop\Pliki\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Pliki\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.dll
+C:\Users\user\Desktop\Pliki\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.pdb
+C:\Users\user\Desktop\Pliki\Kółko i krzyżyk\Kółko i krzyżyk\obj\Debug\netcoreapp3.1\Kółko i krzyżyk.genruntimeconfig.cache
